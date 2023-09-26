@@ -1,1 +1,2 @@
+b9f958f9db3157dbb3092fed0baa5d4bcee530ec8c248ee78f3c1e84c38b0406  clock_example-aarch64.wasm
 c840df15067463fafaf2dd62705123b504a75d95742abac7b82a0952cf3bbcda  clock_example.wasm

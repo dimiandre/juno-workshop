@@ -10,3 +10,6 @@ optimize:
         --mount type=volume,source=registry_cache,target=/usr/local/cargo/registry \
         --platform linux/amd64 \
         cosmwasm/rust-optimizer:0.12.12; fi
+
+build:
+    cargo build --target wasm32-unknown-unknown --release
